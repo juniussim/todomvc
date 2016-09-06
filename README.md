@@ -9,7 +9,7 @@
 2) **CodeSchool - ES6 Powering up with React has a really good beginner friendly tutorial**
 https://www.codeschool.com/courses/powering-up-with-react
 
-3) **React JS Program: Unfortunately, the free tutorial covers react in ES5 but it is good for beginners and gives a good overview of core principles plus a clear explanation of webpack **http://www.reactjsprogram.com/
+3) **React JS Program: Unfortunately, the free tutorial covers react in ES5 but it is good for beginners and gives a good overview of core principles plus a clear explanation of webpack** http://www.reactjsprogram.com/
 
 
 ### At this point we should be ready for the official docs!
@@ -21,11 +21,10 @@ https://www.codeschool.com/courses/powering-up-with-react
 5) **Egghead tutorial (ES6)**
 https://egghead.io/courses/react-fundamentals
 
-6) **Learn Webpack Properly: **
+6) **Learn Webpack Properly:**
 http://survivejs.com/webpack
 
-7) **Learn Redux if React you want to better manage your application states
- **
+7) **Learn Redux if React you want to better manage your application states**
   * https://medium.freecodecamp.com/why-redux-makes-sense-to-me-and-how-i-conceptualize-it-c8a3a9db15ca#.jwszsd573
   * https://learnredux.com/view/hmwBow1PUuo
   * https://egghead.io/courses/getting-started-with-redux
