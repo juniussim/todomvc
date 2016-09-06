@@ -1,0 +1,4 @@
+# Ignore everything:
+node_modules
+
+# Except for the themes directories:
